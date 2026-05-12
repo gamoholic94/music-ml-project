@@ -1,9 +1,9 @@
 joblib==1.4.2
 librosa==0.10.2.post1
-numpy==1.26.3
+numpy==1.26.4
 pandas==2.2.2
 scikit-learn==1.5.0
 soundfile==0.12.1
 soxr==0.3.7
 streamlit==1.35.0
-# tensorflow omitted for Streamlit deploy; use model serving or ONNX instead
+tensorflow-cpu==2.16.1
