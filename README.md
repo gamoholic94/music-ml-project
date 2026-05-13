@@ -9,7 +9,7 @@ A deep learning web application built with Streamlit that classifies music track
 
 ---
 
-![App Screenshot]([URL_TO_YOUR_SCREENSHOT.png])
+![App Screenshot](https://github.com/gamoholic94/music-ml-project/issues/1)
 *(To add a screenshot: take a picture of your running app, upload it to the "Issues" tab of your GitHub repo, and copy-paste the generated image URL here.)*
 
 ## 📚 Project Overview
@@ -36,12 +36,3 @@ This project is an end-to-end music genre classification system. It takes raw au
 *   **GitHub:** For version control and hosting the source code.
 *   **Streamlit Community Cloud:** For hosting the live application.
 
-## 🚀 Setup and Local Installation
-
-To run this project on your local machine, please follow the steps below.
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/[YOUR_GITHUB_USERNAME]/music-genre-classifier.git
-cd music-genre-classifier
